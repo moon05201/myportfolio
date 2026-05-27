@@ -30,7 +30,7 @@ nav ul li a:hover{
 }
 
 .hero{
-    background-color: #7c3aed;
+    background: linear-gradient(to right, #1e2a78, #7c3aed);
     color:white;
     padding: 100px 20px;
     text-align: center;
